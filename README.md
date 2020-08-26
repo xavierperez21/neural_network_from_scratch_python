@@ -37,7 +37,7 @@ And finally we will apply the **_Gradient Descent_** algorithm to optimize the c
 ## Project Online
 You can see the project working online [here](https://colab.research.google.com/drive/1mtARq6cZVv-Maw7kr_eSrGKnotAeU6Xt?usp=sharing "here")
 
-Once you get there click on the "**Run**" label, and then in the "**Run all**" label and you can see the project working. Go to the last line :)
+Once you get there click on the "**Runtime**" option, and then in the "**Run all**" option and you can see the project working. Go to the last line :)
 
 ![](https://i.imgur.com/5x809Tol.png)
 
